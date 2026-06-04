@@ -1,0 +1,165 @@
+air {
+    color: #2999cd;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+feu {
+    color: #cc3d3d;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+eau {
+    color: #066acc;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+zoo {
+    color: olive;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+bota {
+    color: seagreen;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+nec {
+    color: #9370db;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+oni {
+    color: #CE7EDE;
+    font-weight: bold;
+}
+
+
+
+
+hmn {
+    color: #867359;
+    font-weight: bold;
+}
+
+
+
+
+pnj { color: #CF9458;
+  font-weight: bold;}
+
+
+
+
+  tw {
+        display: inline-block;
+        padding: 12px 18px;
+        background-color: transparent !important;
+        color: var(--text);
+        cursor: pointer;
+        user-select: none;
+
+
+        /* Effet flou initial */
+        filter: blur(6px);
+        opacity: 0.6;
+
+
+        /* Animation douce */
+        transition: 
+            filter 0.4s ease,
+            opacity 0.4s ease,
+            background-color 0.3s ease;
+    }
+
+
+    tw:hover {
+        /* Texte net au hover */
+        filter: blur(0);
+        opacity: 1;
+    }
+
+
+
+
+
+
+
+
+vag {
+    background: -webkit-linear-gradient(#c970db, #9370db);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+ver {
+    background: -webkit-linear-gradient(#2e8b57, #bfb943);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+cred {
+    font-family: var(--deco);
+    color: var(--color-texte) !important;
+    font-size: 7px;
+    text-transform: uppercase;
+    -webkit-text-fill-color: var(--color-texte) !important;
+    margin-left: 30px;
+}
