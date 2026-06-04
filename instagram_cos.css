@@ -1,0 +1,308 @@
+/* PROFIL INSTA */
+.cadreinsta {
+	width:400px;
+	background:var(--bginsta);
+	margin-left:auto;margin-right:auto
+	}
+.hautinsta1 {
+	background-image: var(--hautprof);
+	height: 175px;width: 400px;
+	background-size: 400px
+	}
+.milieupro{
+	background-image: var(--milieupro);
+	height: 104px;width: 400px;
+	background-size: 400px;
+	margin-bottom:-20px
+	}
+.basinsta1 {
+	background-image: var(--baspro);
+	height: 53px;width: 400px;
+	background-size: 400px
+	}
+.instaname {
+	font-family: 'Montserrat', sans-serif;font-size: 18px;font-weight:600;
+	letter-spacing: -1px;text-align:left;
+	margin-left:38px;padding-top:14px
+	}
+.fondinsta {
+	width:422px;height:700px;
+	overflow: auto;overflow-x: hidden;scrollbar-width: 0px;
+	margin-top:0px
+	}
+.fondinsta::-webkit-scrollbar{
+	display: none;
+	}
+.iconinstaa {
+	width:76px; height:76px;object-fit:cover;
+	border-radius:50%;
+	grid-area: 1 / 1 / 3 / 2;
+	position:relative;left:24px;top:30px
+	}
+.sousicon {
+	background-image: var(--ssiconpro);
+	height:19px;width:19px;
+	background-size:19px;
+	border-radius:90px;
+	border:solid 2px var(--ssiconborder);
+	position:relative;top:7px;left:78px
+	}
+.instapseudo {
+	font-weight: 400;font-size: 13px;font-weight:600;
+	grid-area: 1 / 2 / 2 / 5;
+	position:relative;left:25px;top:23px
+	}
+.editinsta {
+	display: grid;grid-template-columns: repeat(4, 1fr);grid-template-rows: repeat(2, 1fr);grid-column-gap: 0px;grid-row-gap: 0px;
+	}
+.nbposts{
+	grid-area: 2 / 2 / 3 / 3;
+	font-family: 'Montserrat', sans-serif;font-weight: 600;font-size:14px;
+	position:relative;left:26px;top:11px
+	}
+.abonnes{
+	grid-area: 2 / 3 / 3 / 4;
+	font-family: 'Montserrat', sans-serif;font-weight: 600;font-size:14px;
+	position:relative;left:27px;top:11px
+	}
+.suivies{
+	grid-area: 2 / 4 / 3 / 5;
+	font-family: 'Montserrat', sans-serif;font-weight: 600;font-size:14px;
+	position:relative;left:13px;top:11px
+	}
+.bioinsta {
+	font-size: 12px;line-height: 12px;font-family:arial;
+	margin-top:-26px;margin-left:17px;margin-right:17px
+	}
+.instapho {
+	padding:1px;margin-bottom:-4px;
+	width:131px;height:175px;object-fit:cover
+	}
+.iconinstaapro {
+	width:28px; height:28px;object-fit:cover;
+	border-radius:50%;
+	border: solid 2px var(--icproborder);
+	position:relative;top:10px;left:344px;
+	}
+
+
+/* COMMENTAIRE INSTA */
+.cadreinstac {
+	width:400px;
+	background:var(--bginstac);
+	margin-left:auto;margin-right:auto
+	}
+.hautinstac {
+	background:var(--hautc);
+	height: 56px;width:400px;
+	background-size: 400px
+	}
+.iconinsta3{
+	width:37px; height:37px;object-fit:cover;
+	border-radius:50%;
+	padding:10px;margin-top:-19px;margin-left:4px
+	}
+.comcom{
+	width: 280px;
+	font-size: 12px;font-family:arial;line-height:12px;
+	margin-left:-3px;margin-top:-33px
+	}
+pcom {
+	font-size:12px;font-weight: bold;line-height:32px;
+	}
+pcom::after {
+	content: " 2 min.";opacity:0.6;
+	}
+.coeurc {
+	background:var(--coeur);
+	height: 37px;width: 25px;
+	background-size: 25px;
+	position:relative;right:12px;top:-9px
+	}
+.basinstac{
+	background:var(--basinstac);
+	height:30px;width:400px;
+	background-size:400px;
+	}
+
+
+/* PUBLICATION INSTA */
+.cadrepubli {
+	width:400px;
+	background:var(--bginsta);
+	font-size:12px;font-family:arial;
+	margin-left:auto;margin-right:auto;
+	}
+.hautpubli {
+	width:400px;height:104px;
+	background-size:400px;
+	background-image:var(--hautpubli);
+	}
+.iconpubli {
+	width:32px; height:32px;object-fit:cover;
+	border-radius:50%;
+	padding:10px;
+	position:relative;top:37px;left:5px;
+	}
+.pseudopubli {
+	font-size:12px;font-family: 'Montserrat', sans-serif;font-weight: bold;
+	position:relative;top:-2px;left:60px;
+	}
+.photopubli {
+	width:400px;
+	}
+.milieupubli {
+	width:400px;height:36px;
+	background-size:400px;
+	background-image:var(--milieupubli);
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);grid-template-rows: repeat(5, 1fr);grid-column-gap: 0px;grid-row-gap: 0px;
+	}
+.likes {
+	grid-area: 1 / 1 / 2 / 2;
+	position:relative;left:47px;top:16px
+	}
+.commentaires {
+	grid-area: 1 / 2 / 2 / 3;
+	position:relative;left:38px;top:16px
+	}
+.partages {
+	grid-area: 1 / 3 / 2 / 4;
+	position:relative;left:13px;top:16px
+	}
+.txtpubli {
+	margin-left:15px;margin-right:15px
+	}
+psp {font-weight: 600;padding-right:2px}
+hashp {color:#3E4BC5}
+timep {opacity:0.5;font-size:11px;font-weight:bold}
+.baspubli {
+	background-image:var(--baspubli);
+	width:400px;height:56px;
+	background-size:400px;
+	}
+.iconbaspu {
+	width:28px; height:28px;object-fit:cover;
+	border-radius:50%;border: solid 2px var(--icproborder);
+	position:relative;bottom:-12px;left:344px
+	}
+
+
+/*NOTIFS INSTA*/
+.hautnotif {
+	background-image: var(--hautnot);
+	height: 45px;width: 400px;
+	background-size: 400px
+	}
+.iconinsta4{
+	width:46px; height:46px;object-fit:cover;
+	border-radius:50%;
+	padding:10px;margin-top:-19px;margin-left:4px
+	}
+.instanot{
+	width: 300px;
+	font-size: 12px;font-family:arial;line-height:10px;
+	margin-left:-8px;margin-top:-13px
+	}
+.instanot::after {content: " 2 min.";opacity:0.6;font-weight:bold}
+pnot {font-size:12px;font-weight: bold;line-height:32px;}
+
+
+/*INSTORY*/
+.instory {
+	border-radius: 15px;
+	}
+.instory-icon img {
+	height: 35px;width: 35px;object-fit: cover!important;
+	border-radius: 50%;
+	}
+.instory-icon {
+	border-top: 1px solid #f5f5f5;padding-top: 10px;width: 94%;position: relative;top: 12px;
+	}
+.instory-icon span {
+	color: #f5f5f5;font-weight: 800;font-size: 13px;
+	position:relative;top: -14px;left: 7px;
+	}
+.instory-icon span::after {
+	content: " 1 h";opacity:0.6;font-weight:400;margin-left:4px
+	}
+.instorypoints::after {
+	content: "...";
+	font-weight:600;letter-spacing:1px;font-size:18px;color:#f5f5f5;
+	position:relative;top:-38px;left:180px;
+	writing-mode:vertical-rl;text-orientation:sideways;
+	}
+
+
+/* REACSTORY */
+.cadreinstar {
+	width:380px;
+	background:var(--bginstars);
+	margin-left:auto;margin-right:auto;padding:0 10px 10px 10px
+	}
+.hautinstar {
+	background:var(--hautr);
+	height: 34px;width:156px;
+	background-size: 156px;
+	margin-left:-3px;margin-bottom:-5px
+	}
+.iconinstar{
+	width:37px; height:37px;object-fit:cover;
+	border-radius:50%;
+	padding:10px;margin-top:-0px;margin-left:4px
+	}
+.reac{
+	width: 270px;
+	font-size: 12px;font-family:arial;line-height:12px;
+	margin-left:-3px;margin-top:10px;padding:14px;
+	background:var(--bgreac);
+	border-radius:30px;
+	}
+.reac2{
+	margin-left:70px;margin-bottom:-10px;padding:14px;
+	width: 270px;
+	font-size: 12px;font-family:arial;line-height:12px;color:#fff;
+	background: linear-gradient(#8F2ED5a1, #6940F4d1);
+	border-radius:30px;
+	}
+.basreacs {
+	background:var(--basr);
+	height: 62px;width:400px;
+	background-size: 400px;
+	margin-left:-10px;margin-top:4px
+	}
+
+
+/*CLAIR*/
+:root {--bginsta:#fff;--bginstac:#fff;--icproborder:#000;--ssiconborder : #ffffff;--bginstars:#fff;--bgreac:#EFEFEF;
+--hautprof:url(https://2img.net/i.imgur.com/qUe6J06.png);
+--ssiconpro:url(https://2img.net/i.imgur.com/G7V7spv.png);
+--milieupro: url(https://2img.net/i.imgur.com/yvLdBu3.png);
+--baspro: url(https://2img.net/i.imgur.com/cyqS98W.png);
+--hautc:url(https://2img.net/i.imgur.com/b4ty6sS.png);
+--basinstac:url(https://2img.net/i.imgur.com/Y3WIH7B.png);
+--coeur:url(https://2img.net/i.imgur.com/TUM56mS.png);
+--hautpubli:url(https://2img.net/i.imgur.com/yWUU7Sz.png);
+--milieupubli:url(https://2img.net/i.imgur.com/4AsyC0x.png);
+--baspubli:url(https://2img.net/i.imgur.com/37pdCyG.png);
+--hautnot:url(https://2img.net/i.imgur.com/jZ0QrkB.png);
+--hautr:url(https://2img.net/i.imgur.com/HYD3l4C.png);
+--basr:url(https://2img.net/i.imgur.com/K8jHmNP.png);}
+
+
+/*DARK*/
+[data-color-scheme="dark"]{--bginsta:#0C1015;--bginstac:#25292E;--icproborder:#fff;--ssiconborder:#03070D;--bginstars:#000;--bgreac:#262626;
+--hautprof:url(https://2img.net/i.imgur.com/EVqbAuo.png);
+--ssiconpro:url(https://2img.net/i.imgur.com/hRnHuGm.png);
+--milieupro: url(https://2img.net/i.imgur.com/x3tiJ55.png);
+--baspro:url(https://2img.net/i.imgur.com/avOL4Gi.png);
+--hautc:url(https://2img.net/i.imgur.com/ffSEdUX.png);
+--basinstac:url(https://2img.net/i.imgur.com/mLVeXQe.png);
+--coeur:url(https://2img.net/i.imgur.com/xhljNVq.png);
+--hautpubli:url(https://2img.net/i.imgur.com/gHE3C6M.png);
+--milieupubli:url(https://2img.net/i.imgur.com/MjU58yR.png);
+--baspubli:url(https://2img.net/i.imgur.com/p8nTYDC.png);
+--hautnot:url(https://2img.net/i.imgur.com/eiY2CqO.png);
+--hautr:url(https://2img.net/i.imgur.com/SocuvuZ.png);
+--basr:url(https://2img.net/i.imgur.com/IxSXgSN.png);}
+
