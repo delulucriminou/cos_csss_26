@@ -33,7 +33,7 @@
     flex-direction: row;
     position: relative; 
 }
-﻿
+
 .tableongletsanj .nav-ongletsj {
     font-size: 15px;
     text-align: center;
@@ -44,7 +44,7 @@
     margin-right: -30px;
     margin-top: -45px;
 }
-﻿
+
 .tableongletsanj .nav-ongletsj .ongletanj {
     cursor: pointer;
     margin: 10px 0;
@@ -54,14 +54,14 @@
     color: white;
     border-radius: 5px;
 }
-﻿
+
 .tableongletsanj .ongletsj {
     position: relative;
     width: 650px;
     height: 500px; 
     overflow: hidden; 
 }
-﻿
+
 .tableongletsanj .ongletsj > div {
     position: absolute; 
     top: 0; 
@@ -73,11 +73,11 @@
     display: none;
     background-color: var(--bg2);
 }
-﻿
+
 .tableongletsanj .ongletsj > div.visible {
     display: block;
 }
-﻿
+
   .fondj {
     width: 620px;
     background-color: var(--bg2);
@@ -91,14 +91,14 @@
     text-align: center;
     margin-left: 205px;
     margin-bottom: -22px;
-﻿
+
 }
-﻿
+
 /*FICHES*/
 .clear {
   	clear: both;
 }
-﻿
+
 .fiche_presentation {
     width: 600px; 
     margin: 2% auto;
@@ -113,7 +113,7 @@
         margin-left: 10px;
         width: 260px;
 }
-﻿
+
 .fiche_presentation .identite p {
     width: 360px;
     height: 320px;
@@ -125,7 +125,7 @@
     font-size: var(--normal-size);
   border-radius: 5px;
 }
-﻿
+
 /* IRL */
 .fiche_presentation .irl {
         float: right;
@@ -136,20 +136,20 @@
  margin-right: 10px; 
   font-size: 15px;
 }
-﻿
+
 .fiche_presentation .bloc_irl {
         width: 200px;
         height: 320px;
         overflow: hidden;
         margin: 5% 0 0;
 }
-﻿
+
 .fiche_presentation .bloc_irl:hover .description {
         margin-top: -320px;
         transition: .5s all;
         display: block;
 }
-﻿
+
 .fiche_presentation .bloc_irl .description {
     background-color :var(--bg1);
         width: 200px;
@@ -167,14 +167,14 @@
 .imgirl {max-width: 200px;
   max-height: 320px;
 object-fit: cover;}
-﻿
+
 .postbody b
 {   font-weight: bold;
         text-transform: uppercase;
         font-size: 10px;
         letter-spacing: 1px;
 }
-﻿
+
 .postbody {   background-color: var(--bg1);}
 .presatxt {
     width: 575px;
@@ -189,11 +189,11 @@ object-fit: cover;}
     color: var(--textColor);
     border-radius: 5px;
 }
-﻿
+
 .avapres {
     margin-right: 10px; margin-bottom: 3px; opacity: 0.9; width: 100px; height: 160px;border-radius: 10px;object-fit: cover;
 }
-﻿
+
 /* BLOCS TEXTE */
 .fiche_presentation p {
         width: 90%;
@@ -205,7 +205,7 @@ object-fit: cover;}
         height: 250px;
     background-color :#572112;
 }
-﻿
+
 .lliens{
     width: 505px;
     background-color: var(--bg1);
@@ -216,7 +216,7 @@ object-fit: cover;}
     line-height: 20px;
     color: var(--textColor);
 }
-﻿
+
 .avall {
     margin-right: 10px;
     margin-bottom: 3px;
@@ -226,7 +226,7 @@ object-fit: cover;}
     border-radius: 10px;
     object-fit: cover;
 }
-﻿
+
 .rp {
     width: 620px;
     background-color: var(--bg2);
@@ -236,7 +236,7 @@ object-fit: cover;}
     margin: auto;
     line-height: 24px;
 }
-﻿
+
 .rp2 {
     width: 620px;
     background-color: var(--bg1);
@@ -247,7 +247,7 @@ object-fit: cover;}
     line-height: 24px;
     border: 15px solid var(--bg2);
 }
-﻿
+
 .imgrp {margin-right: 10px; opacity: 0.9; width: 100px; height: 100px;border-radius: 20%;object-fit: cover;}
 .imgrp2 {margin: auto; opacity: 0.9; width: 400px; height: 210px;border-radius: 5px;object-fit: cover;}
 .tableonglets span.ongletcont {
@@ -276,9 +276,9 @@ background-color: var(--bg3);
     text-align: center;
    cursor: pointer;
   font-size:15px;   font-family: var(--FAM-titleFont); /* MODIFIABLE */
-﻿
+
 }
-﻿
+
 .fond {
     width: 620px;
     background-color: var(--bg2);
@@ -287,7 +287,7 @@ background-color: var(--bg3);
     text-align: center;
     height: 600px;
 }
-﻿
+
 .fondt {
     width: 620px;
     padding: 25px 20px;
@@ -297,7 +297,7 @@ background-color: var(--bg3);
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
 }
-﻿
+
 .titre {  font-size:25px;   font-family: var(--deco);
   text-align: center; /* MODIFIABLE */
 }
@@ -311,17 +311,17 @@ background-color: var(--bg3);
     letter-spacing: 3px;
     line-height: 140%;
 }
-﻿
+
 .tableongletsan {
     display: flex;
     margin-top: 20px;
 }
-﻿
+
 .tableongletsan .onglets {
     position: relative;
     width: 370px;
 }
-﻿
+
 .tableongletsan .onglets > div {
     height: 500px;
     margin-leftt: 5px;
@@ -334,19 +334,19 @@ background-color: var(--bg3);
     top: -30px;
   background-color: var(--bg1);
 }
-﻿
+
 .tableongletsan .onglets > div.visible {
     display: block;
 }
-﻿
+
 .tableongletsan .onglets > div.invisible {
    display: none;
 }
-﻿
+
 .tableongletsan .onglets > div:first-child {
     display: block;
 }
-﻿
+
 .tableongletsan .nav-onglets {
     background-color: #d6d6d6;
     box-shadow: 1px 1px 1px #000;
@@ -365,7 +365,7 @@ background-color: var(--bg3);
   display: block;
   font-size: 14px;
 }
-﻿
+
 .ongletan {
     border-radius: 5px;
     text-align: center;
