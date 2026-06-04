@@ -1,0 +1,22 @@
+polices
+CSS • 833 octets
+@font-face {
+    font-family: 'Zaslia';
+    src: url('https://dl.dropbox.com/scl/fi/jlg4y7kn4ffgmj6s8f3p9/Zaslia.woff2?rlkey=k0l1ygx9rugizhovqvvpk7g1f&st=oag45b1o&dl=0') format('woff2'),
+        url('https://dl.dropbox.com/scl/fi/w0v0rlfzeeyk3lximf39r/Zaslia.woff?rlkey=2oacsy0rrqkvr6iaf4jdn7gw9&st=zw4c1bc9&dl=0') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+﻿
+﻿
+﻿
+﻿
+@font-face {
+    font-family: 'goord';
+    src: url('https://dl.dropbox.com/scl/fi/jy295bx9pzrx277jgfnry/goord.woff2?rlkey=96jolxd8hnk4rtz95a9ibk09o&st=6mudfufs&dl=0') format('woff2'),
+        url('https://dl.dropbox.com/scl/fi/3szqf7yn63rnng8dl05ou/goord.woff?rlkey=9ao8aks4byelf06p04fub4lav&st=vc4ubf1t&dl=0') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
