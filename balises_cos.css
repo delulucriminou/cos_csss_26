@@ -152,7 +152,6 @@ u3 { border-bottom: 2px dotted;}
 u4 {border-bottom: 2px dashed;}
 
 surlver {
-    display: inline-block;
     text-align: center;
     margin: 5px 5px 5px 0px;
     background: linear-gradient(#2e8b57 0%, #bfb943 100%);
