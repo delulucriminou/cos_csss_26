@@ -147,9 +147,9 @@ ver {
 
 u2 {border-bottom: double;}
 
-u3 { border-bottom: 1px dotted;}
+u3 { border-bottom: 2px dotted;}
 
-u4 {border-bottom: dashed;}
+u4 {border-bottom: 2px dashed;}
 
 surlver {
     display: inline-block;
