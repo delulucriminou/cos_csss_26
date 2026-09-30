@@ -151,10 +151,65 @@ u3 { border-bottom: 2px dotted;}
 
 u4 {border-bottom: 2px dashed;}
 
+surla {
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: #2eabe4;
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
+
+surlp {
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: #ff4d4d;
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
+
+surlh {
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: #0053a5;
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
+
 surlver {
     text-align: center;
     margin: 5px 5px 5px 0px;
     background: linear-gradient(#2e8b57 0%, #bfb943 100%);
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
+
+surla {
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: #2eabe4;
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
+
+surlvag {
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: linear-gradient(#c970db 0%, #9370db 100%);
  color: white;
   border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
