@@ -156,7 +156,7 @@ surla {
     margin: 5px 5px 5px 0px;
     background: #2eabe4;
  color: white;
-  border-radius: 5px;
+  border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
@@ -167,7 +167,7 @@ surlp {
     margin: 5px 5px 5px 0px;
     background: #ff4d4d;
  color: white;
-  border-radius: 5px;
+  border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
@@ -178,7 +178,7 @@ surlh {
     margin: 5px 5px 5px 0px;
     background: #0053a5;
  color: white;
-  border-radius: 5px;
+  border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
@@ -189,7 +189,7 @@ surlver {
     margin: 5px 5px 5px 0px;
     background: linear-gradient(90deg, #2e8b57 0%, #bfb943 100%);
  color: white;
-  border-radius: 5px;
+  border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
@@ -200,7 +200,7 @@ surlb {
     margin: 5px 5px 5px 0px;
     background: seagreen;
  color: white;
-  border-radius: 5px;
+  border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
@@ -211,7 +211,7 @@ surlz {
     margin: 5px 5px 5px 0px;
     background: olive;
  color: white;
-  border-radius: 5px;
+  border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
@@ -222,7 +222,7 @@ surlvag {
     margin: 5px 5px 5px 0px;
     background: linear-gradient(90deg,  #9370db 0%, #c970db 100%);
  color: white;
-  border-radius: 5px;
+ border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
@@ -233,7 +233,7 @@ surln {
     margin: 5px 5px 5px 0px;
     background: #9370db;
  color: white;
-  border-radius: 5px;
+  border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
@@ -244,7 +244,7 @@ surlo {
     margin: 5px 5px 5px 0px;
     background: #c970db;
  color: white;
-  border-radius: 5px;
+  border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
@@ -255,7 +255,7 @@ surlhmn {
     margin: 5px 5px 5px 0px;
     background: #867359;
  color: white;
-  border-radius: 5px;
+  border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
     font-weight: bold;
     padding: 5px;
