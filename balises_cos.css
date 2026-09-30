@@ -195,10 +195,21 @@ surlver {
     padding: 5px;
 }
 
-surla {
+surlb {
     text-align: center;
     margin: 5px 5px 5px 0px;
-    background: #2eabe4;
+    background: seagreen;
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
+
+surlz {
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: olive;
  color: white;
   border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
@@ -216,6 +227,41 @@ surlvag {
     font-weight: bold;
     padding: 5px;
 }
+
+surln {
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: #9370db;
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
+
+surlo {
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: #c970db;
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
+
+surlhmn {
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: #867359;
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
+
+
 
 
 
