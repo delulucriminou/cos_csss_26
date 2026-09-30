@@ -155,9 +155,7 @@ surlver {
     display: inline-block;
     text-align: center;
     margin: 5px 5px 5px 0px;
-    background: -webkit-linear-gradient(#c970db, #9370db);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(#2e8b57, #bfb943);
  color: white;
   border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
