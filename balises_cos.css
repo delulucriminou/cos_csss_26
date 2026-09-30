@@ -144,53 +144,12 @@ ver {
 }
 
 
-ab {
-    background: -webkit-linear-gradient (to right, #2eabe4, #2e8b57);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-}
-
-ap {
-    background: -webkit-linear-gradient (to right, #2eabe4, #ff4d4d);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-}
-
-ah {
-    background: -webkit-linear-gradient (to right, #2eabe4, #0053a5);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-}
-
-az {
-    background: -webkit-linear-gradient (to right, #2eabe4, #808000);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-}
-
-ao {
-    background: -webkit-linear-gradient (to right, #2eabe4, #c970db);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-}
-
-an {
-    background: -webkit-linear-gradient (to right, #2eabe4, #9370db);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-}
-
 
 u2 {border-bottom: double;}
 
-u3 {  border-bottom: 4px dotted;}
+u3 { border-bottom: 1px dotted;}
 
+u4 {border-bottom: dashed;}
 
 
 
