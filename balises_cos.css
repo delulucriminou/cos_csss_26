@@ -151,7 +151,19 @@ u3 { border-bottom: 1px dotted;}
 
 u4 {border-bottom: dashed;}
 
-
+surlver {
+    display: inline-block;
+    text-align: center;
+    margin: 5px 5px 5px 0px;
+    background: -webkit-linear-gradient(#c970db, #9370db);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ color: white;
+  border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+    font-weight: bold;
+    padding: 5px;
+}
 
 
 
