@@ -187,7 +187,7 @@ surlh {
 surlver {
     text-align: center;
     margin: 5px 5px 5px 0px;
-    background: linear-gradient(#2e8b57 0%, #bfb943 100%);
+    background: linear-gradient(90deg, #2e8b57 0%, #bfb943 100%);
  color: white;
   border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
@@ -209,7 +209,7 @@ surla {
 surlvag {
     text-align: center;
     margin: 5px 5px 5px 0px;
-    background: linear-gradient(#c970db 0%, #9370db 100%);
+    background: linear-gradient(90deg, #c970db 0%, #9370db 100%);
  color: white;
   border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
