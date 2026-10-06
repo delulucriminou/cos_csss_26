@@ -263,7 +263,7 @@ surlhmn {
 
 
 
-cadrebb{border: 1px solid var(--bb); 
+cadrebb { border: 1px solid var(--bb); 
         color: var(--bb);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -273,7 +273,7 @@ cadrebb{border: 1px solid var(--bb);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cadreb2{border: 1px solid var(--b2);
+cadreb2 { border: 1px solid var(--b2);
         color: var(--b2);
         text-transform: uppercase;
         font-size: 11px;padding: 5px; 
@@ -281,7 +281,7 @@ cadreb2{border: 1px solid var(--b2);
         text-align: center;box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
         font-weight: bold;} 
 
-cadreb3{ border: 1px solid var(--b3);
+cadreb3 { border: 1px solid var(--b3);
         color: var(--b3);
         text-transform: uppercase;
         font-size:11px; 
@@ -292,7 +292,7 @@ cadreb3{ border: 1px solid var(--b3);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
         font-weight: bold;}
 
-cair{border: 1px solid var(--air); 
+cair { border: 1px solid var(--air); 
         color: var(--air);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -302,7 +302,7 @@ cair{border: 1px solid var(--air);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cfeu{border: 1px solid var(--feu); 
+cfeu { border: 1px solid var(--feu); 
         color: var(--feu);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -312,7 +312,7 @@ cfeu{border: 1px solid var(--feu);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-ceau{border: 1px solid var(--eau); 
+ceau { border: 1px solid var(--eau); 
         color: var(--eau);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -322,7 +322,7 @@ ceau{border: 1px solid var(--eau);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cbota{border: 1px solid var(--bota); 
+cbota  { border: 1px solid var(--bota); 
         color: var(--bota);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -332,7 +332,7 @@ cbota{border: 1px solid var(--bota);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-czoo{border: 1px solid var(--zoo); 
+czoo { border: 1px solid var(--zoo); 
         color: var(--zoo);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -342,7 +342,7 @@ czoo{border: 1px solid var(--zoo);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cver{border: 1px solid var(--ver); 
+cver { border: 1px solid var(--ver); 
         color: var(--ver);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -352,7 +352,7 @@ cver{border: 1px solid var(--ver);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-coni{border: 1px solid var(--oni); 
+coni { border: 1px solid var(--oni); 
         color: var(--oni);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -362,7 +362,7 @@ coni{border: 1px solid var(--oni);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cnec{border: 1px solid var(--nec); 
+cnec { border: 1px solid var(--nec); 
         color: var(--nec);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -372,7 +372,7 @@ cnec{border: 1px solid var(--nec);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cvag{border: 1px solid var(--vag); 
+cvag { border: 1px solid var(--vag); 
         color: var(--vag);
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -382,12 +382,12 @@ cvag{border: 1px solid var(--vag);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-surldis{ background-color: var(--bg2);
+surldis { background-color: var(--bg2);
          color: var(--contrastLight);
          border-radius: 5px; padding: 5px; 
         font-weight: bold;} 
 
-surldis2{ background-color: var(--bg2);
+surldis2 { background-color: var(--bg2);
          color: var(--contrastLight);
          border-radius: 5px; 
          adding: 5px; 
