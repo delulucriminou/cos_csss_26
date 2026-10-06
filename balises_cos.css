@@ -292,6 +292,96 @@ cadreb3{ border: 1px solid var(--b3);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
         font-weight: bold;}
 
+cair{border: 1px solid var(--air); 
+        color: var(--air);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
+
+cfeu{border: 1px solid var(--feu); 
+        color: var(--feu);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
+
+ceau{border: 1px solid var(--eau); 
+        color: var(--eau);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
+
+cbota{border: 1px solid var(--bota); 
+        color: var(--bota);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
+
+czoo{border: 1px solid var(--zoo); 
+        color: var(--zoo);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
+
+cver{border: 1px solid var(--ver); 
+        color: var(--ver);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
+
+coni{border: 1px solid var(--oni); 
+        color: var(--oni);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
+
+cnec{border: 1px solid var(--nec); 
+        color: var(--nec);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
+
+cvag{border: 1px solid var(--vag); 
+        color: var(--vag);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
+
 surldis{ background-color: var(--bg2);
          color: var(--contrastLight);
          border-radius: 5px; padding: 5px; 
