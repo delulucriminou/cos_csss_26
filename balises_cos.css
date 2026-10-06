@@ -263,7 +263,34 @@ surlhmn {
 
 
 
+cadrebb{border: 1px solid var(--bb); 
+        color: var(--bb);
+        text-transform: uppercase;
+        font-size: 11px; padding: 5px; 
+        border-radius: 10px; 
+        margin: 5px 5px 5px 0px; 
+        text-align: center; 
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
+        font-weight: bold;} 
 
+cadreb2{border: 1px solid var(--b2);
+        color: var(--b2);
+        text-transform: uppercase;
+        font-size: 11px;padding: 5px; 
+        border-radius: 10px;margin: 5px 5px 5px 0px;
+        text-align: center;box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+        font-weight: bold;} 
+
+cadreb3{ border: 1px solid var(--b3);
+        color: var(--b3);
+        text-transform: uppercase;
+        font-size:11px; 
+        padding: 5px;
+        border-radius: 10px;
+        margin: 5px 5px 5px 0px;
+        text-align: center;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
+        font-weight: bold;}
 
 
 cred {
