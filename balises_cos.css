@@ -292,6 +292,18 @@ cadreb3{ border: 1px solid var(--b3);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
         font-weight: bold;}
 
+surldis{ background-color: var(--bg2);
+         color: var(--contrastLight);
+         border-radius: 5px; padding: 5px; 
+        font-weight: bold;} 
+
+surldis2{ background-color: var(--bg2);
+         color: var(--contrastLight);
+         border-radius: 5px; 
+         adding: 5px; 
+         font-weight: bold;
+         text-transform: uppercase;
+         font-size:11px;}
 
 cred {
     font-family: var(--deco);
