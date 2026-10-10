@@ -292,8 +292,8 @@ cadreb3 { border: 1px solid var(--b3);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
         font-weight: bold;}
 
-cair { border: 1px solid var(--air); 
-        color: var(--air);
+cair { border: 1px solid color:#2999cd; 
+        color: #2999cd;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
         border-radius: 10px; 
@@ -302,8 +302,8 @@ cair { border: 1px solid var(--air);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cfeu { border: 1px solid var(--feu); 
-        color: var(--feu);
+cfeu { border: 1px solid color:#cc3d3d; 
+        color: #cc3d3d;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
         border-radius: 10px; 
@@ -312,8 +312,8 @@ cfeu { border: 1px solid var(--feu);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-ceau { border: 1px solid var(--eau); 
-        color: var(--eau);
+ceau { border: 1px solid color:#066acc; 
+        color: #066acc;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
         border-radius: 10px; 
@@ -322,8 +322,8 @@ ceau { border: 1px solid var(--eau);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cbota  { border: 1px solid var(--bota); 
-        color: var(--bota);
+cbota  { border: 1px solid color: seagreen; 
+        color: seagreen;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
         border-radius: 10px; 
@@ -332,8 +332,8 @@ cbota  { border: 1px solid var(--bota);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-czoo { border: 1px solid var(--zoo); 
-        color: var(--zoo);
+czoo { border: 1px solid color: olive; 
+        color: solive;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
         border-radius: 10px; 
@@ -342,8 +342,8 @@ czoo { border: 1px solid var(--zoo);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cver { border: 1px solid var(--ver); 
-        color: var(--ver);
+coni { border: 1px solid color:#CE7EDE; 
+        color: #CE7EDE;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
         border-radius: 10px; 
@@ -352,8 +352,8 @@ cver { border: 1px solid var(--ver);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-coni { border: 1px solid var(--oni); 
-        color: var(--oni);
+cnec { border: 1px solid color:#9370db;
+        color: #9370db;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
         border-radius: 10px; 
@@ -362,18 +362,8 @@ coni { border: 1px solid var(--oni);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cnec { border: 1px solid var(--nec); 
-        color: var(--nec);
-        text-transform: uppercase;
-        font-size: 11px; padding: 5px; 
-        border-radius: 10px; 
-        margin: 5px 5px 5px 0px; 
-        text-align: center; 
-        box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
-        font-weight: bold;} 
-
-cvag { border: 1px solid var(--vag); 
-        color: var(--vag);
+chmn { border: 1px solid color: #867359;
+        color: #867359;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
         border-radius: 10px; 
