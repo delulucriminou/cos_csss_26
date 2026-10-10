@@ -292,7 +292,7 @@ cadreb3 { border: 1px solid var(--b3);
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05);
         font-weight: bold;}
 
-cair { border: 1px solid color:#2999cd; 
+cair { border: 1px solid #2999cd; 
         color: #2999cd;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -302,7 +302,7 @@ cair { border: 1px solid color:#2999cd;
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cfeu { border: 1px solid color:#cc3d3d; 
+cfeu { border: 1px solid #cc3d3d; 
         color: #cc3d3d;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -312,7 +312,7 @@ cfeu { border: 1px solid color:#cc3d3d;
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-ceau { border: 1px solid color:#066acc; 
+ceau { border: 1px solid #066acc; 
         color: #066acc;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -322,7 +322,7 @@ ceau { border: 1px solid color:#066acc;
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cbota  { border: 1px solid color: seagreen; 
+cbota  { border: 1px solid seagreen; 
         color: seagreen;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -332,7 +332,7 @@ cbota  { border: 1px solid color: seagreen;
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-czoo { border: 1px solid color: olive; 
+czoo { border: 1px solid olive; 
         color: solive;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -342,7 +342,7 @@ czoo { border: 1px solid color: olive;
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-coni { border: 1px solid color:#CE7EDE; 
+coni { border: 1px solid #CE7EDE; 
         color: #CE7EDE;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -352,7 +352,7 @@ coni { border: 1px solid color:#CE7EDE;
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-cnec { border: 1px solid color:#9370db;
+cnec { border: 1px solid #9370db;
         color: #9370db;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
@@ -362,7 +362,7 @@ cnec { border: 1px solid color:#9370db;
         box-shadow: 0 2px 5px rgba(0, 0, 0, .05); 
         font-weight: bold;} 
 
-chmn { border: 1px solid color: #867359;
+chmn { border: 1px solid #867359;
         color: #867359;
         text-transform: uppercase;
         font-size: 11px; padding: 5px; 
